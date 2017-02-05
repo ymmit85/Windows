@@ -12,6 +12,6 @@ Example of how to run script
 Put some notes here.
 
 .LINK
-URL or Contact details
+URL or Contact details.
 
 #>
