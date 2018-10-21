@@ -1,4 +1,15 @@
 # Windows
 ## Windows Powershell scripts
 
-### Random set of Powershell scripts for use in Windows.
+```plantuml
+@startuml
+
+node node1 [
+    Server 1
+]
+actor user1 [
+    User
+]
+node1 <-- user1
+@enduml
+```
